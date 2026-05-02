@@ -1,0 +1,13 @@
+Original category	→ Aspect label
+faculty general, faculty comprehensiveness, faculty value, faculty relatability, Teaching_Setup, presentation quality/quantity/...	→ Teaching_Skill (0)
+Mathematical_Related_Concept	→ Knowledge (1)
+Instructor	→ Experience (2)
+faculty response	→ Support (4)
+course general, course quality, course comprehensiveness, course relatability, course value, Course_General_Feedback	→ Curriculum (5)
+material quality, material quantity, material comprehensiveness, material relatability, material workload	→ Materials (6)
+course workload	→ Workload (7)
+assignments *, proyecto final	→ Assignments (8)
+grades general, polarity *	→ Grading (9)
+facilities *	→ Classroom (11)
+course general (platform context)	→ Platforms (12)
+course general (general)	→ General (13)

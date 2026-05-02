@@ -1,0 +1,286 @@
+Total unique categories: 283
+
+All categories:
+  - After-sales Service#Exchange/Warranty/Return
+  - Appearance Design#Aesthetics General
+  - Appearance Design#Color
+  - Appearance Design#Exterior Design Material
+  - Appearance Design#Fuselage Size
+  - Appearance Design#Grip Feeling
+  - Appearance Design#Thickness
+  - Appearance Design#Weight
+  - Appearance Design#Workmanship and Texture
+  - Audio/Sound#Tone quality
+  - Audio/Sound#Volume and Speaker
+  - BATTERY#DESIGN_FEATURES
+  - BATTERY#GENERAL
+  - BATTERY#OPERATION_PERFORMANCE
+  - BATTERY#QUALITY
+  - Battery/Long evity#Battery Life
+  - Battery/Longevity#Battery Capacity
+  - Battery/Longevity#Battery Life
+  - Battery/Longevity#Charging Method
+  - Battery/Longevity#Charging Speed
+  - Battery/Longevity#General
+  - Battery/Longevity#Power Consumption Speed
+  - Battery/Longevity#Standby Time
+  - Branding/Marketing#Promotional Giveaways
+  - Buyer Attitude#Loyalty
+  - Buyer Attitude#Recommendable
+  - Buyer Attitude#Repurchase and Churn Tendency
+  - Buyer Attitude#Shopping Experiences
+  - Buyer Attitude#Shopping Willingness
+  - C amera#General
+  - COMPANY#DESIGN_FEATURES
+  - COMPANY#GENERAL
+  - COMPANY#OPERATION_PERFORMANCE
+  - COMPANY#PRICE
+  - COMPANY#QUALITY
+  - CPU#DESIGN_FEATURES
+  - CPU#GENERAL
+  - CPU#OPERATION_PERFORMANCE
+  - CPU#PRICE
+  - Camera#Fill light
+  - Camera#Front Camera
+  - Camera#General
+  - Camera#Rear Camera
+  - Course_General_Feedback
+  - DISPLAY#DESIGN_FEATURES
+  - DISPLAY#GENERAL
+  - DISPLAY#OPERATION_PERFORMANCE
+  - DISPLAY#PRICE
+  - DISPLAY#QUALITY
+  - DISPLAY#USABILITY
+  - Ease of Use#Audience Groups
+  - Ease of Use#Easy to Use
+  - FANS&COOLING#GENERAL
+  - FANS&COOLING#OPERATION_PERFORMANCE
+  - FANS&COOLING#QUALITY
+  - GRAPHICS#DESIGN_FEATURES
+  - GRAPHICS#GENERAL
+  - GRAPHICS#OPERATION_PERFORMANCE
+  - GRAPHICS#USABILITY
+  - HARDWARE#DESIGN_FEATURES
+  - HARDWARE#GENERAL
+  - HARDWARE#OPERATION_PERFORMANCE
+  - HARDWARE#QUALITY
+  - HARDWARE#USABILITY
+  - HARD_DISC#DESIGN_FEATURES
+  - HARD_DISC#GENERAL
+  - HARD_DISC#MISCELLANEOUS
+  - HARD_DISC#OPERATION_PERFORMANCE
+  - HARD_DISC#PRICE
+  - HARD_DISC#QUALITY
+  - HARD_DISC#USABILITY
+  - Instructor
+  - Intelligent Assistant#Intelligent Assistant General
+  - KEYBOARD#DESIGN_FEATURES
+  - KEYBOARD#GENERAL
+  - KEYBOARD#MISCELLANEOUS
+  - KEYBOARD#OPERATION_PERFORMANCE
+  - KEYBOARD#PORTABILITY
+  - KEYBOARD#PRICE
+  - KEYBOARD#QUALITY
+  - KEYBOARD#USABILITY
+  - Key Design#General
+  - LAPTOP#CONNECTIVITY
+  - LAPTOP#DESIGN_FEATURES
+  - LAPTOP#GENERAL
+  - LAPTOP#MISCELLANEOUS
+  - LAPTOP#OPERATION_PERFORMANCE
+  - LAPTOP#PORTABILITY
+  - LAPTOP#PRICE
+  - LAPTOP#QUALITY
+  - LAPTOP#USABILITY
+  - Logistics#Lost and Damaged
+  - Logistics#Shipping Fee
+  - Logistics#Speed
+  - Logistics#general
+  - MEMORY#DESIGN_FEATURES
+  - MEMORY#GENERAL
+  - MEMORY#OPERATION_PERFORMANCE
+  - MEMORY#QUALITY
+  - MEMORY#USABILITY
+  - MOTHERBOARD#QUALITY
+  - MOUSE#DESIGN_FEATURES
+  - MOUSE#GENERAL
+  - MOUSE#USABILITY
+  - MULTIMEDIA_DEVICES#CONNECTIVITY
+  - MULTIMEDIA_DEVICES#DESIGN_FEATURES
+  - MULTIMEDIA_DEVICES#GENERAL
+  - MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+  - MULTIMEDIA_DEVICES#QUALITY
+  - Mathematical_Related_Concept
+  - NULL
+  - OPTICAL_DRIVES#GENERAL
+  - OPTICAL_DRIVES#USABILITY
+  - OS#DESIGN_FEATURES
+  - OS#GENERAL
+  - OS#MISCELLANEOUS
+  - OS#OPERATION_PERFORMANCE
+  - OS#PRICE
+  - OS#QUALITY
+  - OS#USABILITY
+  - Other
+  - Out_Of_Scope#DESIGN_FEATURES
+  - Out_Of_Scope#GENERAL
+  - Out_Of_Scope#OPERATION_PERFORMANCE
+  - Out_Of_Scope#USABILITY
+  - Overall#Overall
+  - PORTS#CONNECTIVITY
+  - PORTS#DESIGN_FEATURES
+  - PORTS#GENERAL
+  - PORTS#OPERATION_PERFORMANCE
+  - PORTS#PORTABILITY
+  - PORTS#QUALITY
+  - PORTS#USABILITY
+  - POWER_SUPPLY#DESIGN_FEATURES
+  - POWER_SUPPLY#GENERAL
+  - POWER_SUPPLY#OPERATION_PERFORMANCE
+  - POWER_SUPPLY#QUALITY
+  - Performance#General
+  - Performance#Heat Generation
+  - Performance#Running Speed
+  - Price#Price
+  - Price#Value for Money
+  - Product Accessories#Cell Phone Film
+  - Product Accessories#Charger
+  - Product Accessories#Charging Cable
+  - Product Accessories#Headphones
+  - Product Accessories#Phone Cases
+  - Product Configuration#CPU
+  - Product Configuration#Memory
+  - Product Configuration#Operating Memory
+  - Product Packaging#Completeness of Accessories
+  - Product Packaging#General
+  - Product Packaging#Instruction Manual
+  - Product Packaging#Packaging Grade
+  - Product Packaging#Packaging Materials
+  - Product Quality#Cleanliness
+  - Product Quality#Dustproof
+  - Product Quality#Fall Protection
+  - Product Quality#General
+  - Product Quality#Genuine Product
+  - Product Quality#Water Resistant
+  - SHIPPING#GENERAL
+  - SHIPPING#OPERATION_PERFORMANCE
+  - SHIPPING#QUALITY
+  - SOFTWARE#DESIGN_FEATURES
+  - SOFTWARE#GENERAL
+  - SOFTWARE#OPERATION_PERFORMANCE
+  - SOFTWARE#PORTABILITY
+  - SOFTWARE#PRICE
+  - SOFTWARE#QUALITY
+  - SOFTWARE#USABILITY
+  - SUPPORT#GENERAL
+  - SUPPORT#OPERATION_PERFORMANCE
+  - SUPPORT#PRICE
+  - SUPPORT#QUALITY
+  - Screen#Clarity
+  - Screen#General
+  - Screen#Size
+  - Security#Screen Unlock
+  - Seller Service#Attitude
+  - Seller Service#Inventory
+  - Seller Service#Seller Expertise
+  - Seller Service#Shipping
+  - Seller Service#Timeliness of Seller Service
+  - Shooting Functions#General
+  - Shooting Functions#Pixel
+  - Signal#Call Quality
+  - Signal#Signal General
+  - Signal#Signal of Mobile Network
+  - Signal#Wifi Signal
+  - Smart Connect#Bluetooth Connection
+  - Smart Connect#Positioning and GPS
+  - System#Application
+  - System#Lock Screen Design
+  - System#NFC
+  - System#Operation Smoothness
+  - System#Software Compatibility
+  - System#System General
+  - System#System Upgrade
+  - System#UI Interface Aesthetics
+  - Teaching_Setup
+  - WARRANTY#GENERAL
+  - amazon availability
+  - amazon prices
+  - ambience general
+  - assignments comprehensiveness
+  - assignments quality
+  - assignments quantity
+  - assignments relatability
+  - assignments workload
+  - course comprehensiveness
+  - course general
+  - course quality
+  - course relatability
+  - course value
+  - course workload
+  - drinks prices
+  - drinks quality
+  - drinks style_options
+  - facilities cleanliness
+  - facilities comfort
+  - facilities design_features
+  - facilities general
+  - facilities miscellaneous
+  - facilities prices
+  - facilities quality
+  - faculty comprehensiveness
+  - faculty general
+  - faculty relatability
+  - faculty response
+  - faculty value
+  - food general
+  - food prices
+  - food quality
+  - food recommendation
+  - food style_options
+  - food_drinks miscellaneous
+  - food_drinks prices
+  - food_drinks quality
+  - food_drinks style_options
+  - grades general
+  - hotel cleanliness
+  - hotel comfort
+  - hotel design_features
+  - hotel general
+  - hotel miscellaneous
+  - hotel prices
+  - hotel quality
+  - location general
+  - material comprehensiveness
+  - material quality
+  - material quantity
+  - material relatability
+  - material workload
+  - polarity negative
+  - polarity neutral
+  - polarity positive
+  - presentation comprehensiveness
+  - presentation quality
+  - presentation quantity
+  - presentation relatability
+  - presentation workload
+  - proyecto final
+  - restaurant general
+  - restaurant miscellaneous
+  - restaurant prices
+  - room_amenities cleanliness
+  - room_amenities comfort
+  - room_amenities design_features
+  - room_amenities general
+  - room_amenities prices
+  - room_amenities quality
+  - rooms cleanliness
+  - rooms comfort
+  - rooms design_features
+  - rooms general
+  - rooms miscellaneous
+  - rooms prices
+  - rooms quality
+  - service general
+  - shipment delivery
+  - shipment prices
+  - shipment quality
