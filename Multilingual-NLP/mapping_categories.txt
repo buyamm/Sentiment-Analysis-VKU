@@ -1,5 +1,5 @@
 Original category	→ Aspect label
-faculty general, faculty comprehensiveness, faculty value, faculty relatability, Teaching_Setup, presentation quality/quantity/...	→ Teaching_Skill (0)
+faculty general, faculty comprehensiveness, faculty value, faculty relatability, Teaching_Setup, presentation quality/quantity/...	→ Teaching_Skill (0presentation)
 Mathematical_Related_Concept	→ Knowledge (1)
 Instructor	→ Experience (2)
 faculty response	→ Support (4)
@@ -11,3 +11,88 @@ grades general, polarity *	→ Grading (9)
 facilities *	→ Classroom (11)
 course general (platform context)	→ Platforms (12)
 course general (general)	→ General (13)
+
+CHAT GPT
+aspect_mapping = {
+    "aspect1_teaching_skill": [
+        "presentation quality",
+        "presentation comprehensiveness",
+        "presentation relatability",
+        "Teaching_Setup",
+        "faculty response",
+        "faculty relatability",
+    ],
+
+    "aspect2_experience": [
+        "faculty comprehensiveness",
+        "faculty value",
+        "presentation relatability",
+        "course relatability",
+    ],
+
+    "aspect3_behavior": [
+        "faculty response",
+        "faculty relatability",
+        "faculty general",
+        "Instructor",
+    ],
+
+    "aspect4_assignments": [
+        "assignments comprehensiveness",
+        "assignments quality",
+        "assignments quantity",
+        "assignments relatability",
+        "assignments workload",
+    ],
+
+    "aspect5_grading": [
+        "grades general",
+    ],
+
+    "aspect6_materials": [
+        "material comprehensiveness",
+        "material quality",
+        "material quantity",
+        "material relatability",
+    ],
+
+    "aspect7_knowledge": [
+        "faculty comprehensiveness",
+        "course comprehensiveness",
+        "course quality",
+        "material comprehensiveness",
+    ],
+
+    "aspect8_curriculum": [
+        "course general",
+        "course comprehensiveness",
+        "course quality",
+        "course relatability",
+        "course workload",
+        "Course_General_Feedback",
+    ],
+
+    "aspect9_facilities": [
+        "facilities cleanliness",
+        "facilities comfort",
+        "facilities design_features",
+        "facilities general",
+        "facilities quality",
+        "facilities miscellaneous",
+    ],
+
+    "aspect10_suggestion": [
+        "Course_General_Feedback",
+        "course general",
+        "faculty response",
+    ],
+
+    "aspect11_general": [
+        "faculty general",
+        "course general",
+        "Course_General_Feedback",
+        "Teaching_Setup",
+        "Other",
+        "NULL",
+    ]
+}

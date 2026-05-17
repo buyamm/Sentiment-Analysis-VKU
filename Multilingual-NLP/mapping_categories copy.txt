@@ -1,0 +1,70 @@
+
+
+GEMINI
+aspect_mapping = {
+    "aspect1_teaching_skill": [ 
+        "presentation quality",
+        "presentation comprehensiveness,
+        "faculty value",
+        "faculty general",
+        "Instructor",
+        "faculty comprehensiveness",
+    ],
+
+    "aspect2_experience": [ kinh_nghiem
+        "faculty relatability",
+        
+    ],
+
+    "aspect3_behavior": [ hanh_vi
+        "faculty response",
+        
+    ],
+
+    "aspect4_assignments": [ bai_tap
+        "assignments quality",
+        "assignments quantity",
+        "assignments workload",
+        "assignments comprehensiveness",
+        "proyecto final",
+        "assignments relatability",
+    ],
+
+    "aspect5_grading": [ cham_diem
+        "grades general",
+    ],
+
+    "aspect6_materials": [ cung_cap_tai_lieu
+        "material comprehensiveness",
+        "material quality",
+        "material quantity",
+        "material relatability",
+        "material workload",
+    ],
+
+    "aspect7_knowledge": [ kien_thuc
+        "Mathematical_Related_Concept", 
+        
+    ],
+
+    "aspect8_curriculum": [ chuong_trinh_hoc
+        "course quality", 
+        "course relatability",
+        "course workload",
+        "course value", 
+        "Course_General_Feedback",
+        "course comprehensiveness"
+    ],
+
+    "aspect9_facilities": [ thiet_bi_day_hoc
+        "Teaching_Setup",
+    ],
+
+    "aspect10_suggestion": [ de_xuat
+        
+    ],
+
+    "aspect11_general": [ noi_chung
+        "course general",
+    ]
+}
